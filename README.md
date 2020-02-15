@@ -30,7 +30,12 @@ use clojures / anonymous functions
 ---
 <a name="metrics"></a>
 ## 2. METRICS
-[![Capture](https://user-images.githubusercontent.com/61032020/74591972-12542700-501d-11ea-8f01-735bb0dd3766.JPG)](http://localhost:9000/dashboard?id=sonarkey)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rimsha-ssa_2048&metric=alert_status)](https://sonarcloud.io/dashboard?id=rimsha-ssa_2048)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=rimsha-ssa_2048&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=rimsha-ssa_2048)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=rimsha-ssa_2048&metric=sqale_index)](https://sonarcloud.io/dashboard?id=rimsha-ssa_2048)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=rimsha-ssa_2048&metric=code_smells)](https://sonarcloud.io/dashboard?id=rimsha-ssa_2048)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=rimsha-ssa_2048&metric=ncloc)](https://sonarcloud.io/dashboard?id=rimsha-ssa_2048)
+
 - For this project sonarqube was used.
 - To view the SonarQube project status click on the image above.
 ---
