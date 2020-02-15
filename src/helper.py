@@ -29,7 +29,6 @@ def add_two(mat):
 
 
 def game_state(mat):
-    print(mat)
     """
     Keeping track of game state with each move
     returns:
@@ -129,7 +128,7 @@ def merge_values(mat):
     return (mat, done)
 
 
-def up(game):
+def go_up(game):
     """
     Up key event
     """

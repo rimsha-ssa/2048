@@ -38,7 +38,7 @@ class GridCreator(Frame):
         self.master.bind("<Key>", self.key_down)
 
         self.commands = {
-                        KEY_UP: helper.up,
+                        KEY_UP: helper.go_up,
                         KEY_DOWN: helper.down,
                         KEY_LEFT: helper.left,
                         KEY_RIGHT: helper.right,

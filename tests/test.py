@@ -3,7 +3,7 @@ from copy import deepcopy
 import os
 import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
-from src.helper import merge_values, up, down, left, right
+from src.helper import merge_values, go_up, down, left, right
 
 
 class TestPrivate2048(unittest.TestCase):
@@ -15,8 +15,7 @@ class TestPrivate2048(unittest.TestCase):
 
     def test_up(self):
         input_grid = [[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 2], [2, 0, 0, 0]]
-        print(up(input_grid))
-        result_from_up = up(input_grid)
+        result_from_up = go_up(input_grid)
         result = ([[2, 0, 0, 2], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]], True)
         self.assertTrue(result_from_up == result)
 
