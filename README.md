@@ -36,7 +36,7 @@ use clojures / anonymous functions
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=rimsha-ssa_2048&metric=code_smells)](https://sonarcloud.io/dashboard?id=rimsha-ssa_2048)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=rimsha-ssa_2048&metric=ncloc)](https://sonarcloud.io/dashboard?id=rimsha-ssa_2048)
 
-- For this project sonarqube was used.
+- https://sonarcloud.io/dashboard?id=rimsha-ssa_2048
 - To view the SonarQube project status click on the image above.
 ---
 <a name="clean-code-development"></a>
