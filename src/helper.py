@@ -29,6 +29,7 @@ def add_two(mat):
 
 
 def game_state(mat):
+    print(mat)
     """
     Keeping track of game state with each move
     returns:
