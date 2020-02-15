@@ -63,8 +63,13 @@ use clojures / anonymous functions
 <a name="unit-test"></a>
 ## 5. UNIT TEST
 - Pythons library UnitTest was used to test the critical functions in the game.
+
 ![Capture 3](https://user-images.githubusercontent.com/61032020/74593796-6e27ab80-502f-11ea-9cf5-ca27971b7132.JPG)
-- nosetests with xunit and coverage was installed in sonar scanner. Nosetests was used to run unit tests, and generate information relating to the source code.It helped run the test runner, generates coverage information, and generates an XML test report
+
+- nosetests with xunit and coverage was installed in sonar scanner. Nosetests was used to run unit tests, and generate information relating to the source code.It helped run the test runner, generates coverage information, and generates an XML test report.
+
+![Capture 4](https://user-images.githubusercontent.com/61032020/74593885-79c7a200-5030-11ea-95ca-ff622da27b40.JPG)
+
 
 
 
