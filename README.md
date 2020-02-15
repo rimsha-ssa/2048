@@ -57,6 +57,11 @@ use clojures / anonymous functions
 ---
 <a name="build-management"></a>
 ## 4. BUILD MANAGEMENT
+![Capture 5](https://user-images.githubusercontent.com/61032020/74595491-37a75c00-5042-11ea-932e-da5e7edc8cf4.JPG)
+- Ant build system in Jenkins was used to run the build xml file for the project.
+- View the file that was used to run ant build system
+![Capture 6](https://user-images.githubusercontent.com/61032020/74595492-3aa24c80-5042-11ea-8d2c-9c7fa3117cab.JPG)
+
 
 
 ---
