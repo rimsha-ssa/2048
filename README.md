@@ -36,8 +36,8 @@ use clojures / anonymous functions
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=rimsha-ssa_2048&metric=code_smells)](https://sonarcloud.io/dashboard?id=rimsha-ssa_2048)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=rimsha-ssa_2048&metric=ncloc)](https://sonarcloud.io/dashboard?id=rimsha-ssa_2048)
 
-- https://sonarcloud.io/dashboard?id=rimsha-ssa_2048
-- To view the SonarQube project status click on the image above.
+- [![Capture 2](https://user-images.githubusercontent.com/61032020/74592855-85fa3200-5025-11ea-8dda-8a9624dcfccd.JPG)](https://sonarcloud.io/dashboard?id=rimsha-ssa_2048)
+- To view the Sonarcloud.io project status click on the image above.
 ---
 <a name="clean-code-development"></a>
 ## 3. CLEAN CODE DEVELOPMENT
