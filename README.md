@@ -30,7 +30,9 @@ use clojures / anonymous functions
 ---
 <a name="metrics"></a>
 ## 2. METRICS
+[![Capture](https://user-images.githubusercontent.com/61032020/74591972-12542700-501d-11ea-8f01-735bb0dd3766.JPG)](http://localhost:9000/dashboard?id=sonarkey)
 - For this project sonarqube was used.
+- To view the SonarQube project status click on the image above.
 ---
 <a name="clean-code-development"></a>
 ## 3. CLEAN CODE DEVELOPMENT
