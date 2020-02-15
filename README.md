@@ -49,6 +49,11 @@ use clojures / anonymous functions
 - Open/Closed Principle (Open to extension but Closed to modification)
 - KISS Principle (keep it simple, stupid)
 - Single Responsibility
+
+***Link to <a href="https://github.com/rimsha-ssa/2048/blob/master/cheatsheet.md">cheat sheet</a>***
+
+
+
 ---
 <a name="build-management"></a>
 ## 4. BUILD MANAGEMENT
@@ -57,6 +62,7 @@ use clojures / anonymous functions
 ---
 <a name="unit-test"></a>
 ## 5. UNIT TEST
+- Pythons library UnitTest was used to test the critical functions in the game.
 
 ---
 <a name="continous-delivery-pipeline"></a>
