@@ -28,6 +28,9 @@ use clojures / anonymous functions
 <a name="uml"></a>
 ## 1. UML
 
+![Class Diagram)](https://github.com/rimsha-ssa/2048/blob/master/UML.jpg)]
+
+
 ---
 <a name="metrics"></a>
 ## 2. METRICS
