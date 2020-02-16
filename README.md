@@ -88,6 +88,12 @@ use clojures / anonymous functions
 <a name="continous-delivery-pipeline"></a>
 ## 6. CONTINOUS DELIVERY PIPELINE
 
+![Capture 9](https://user-images.githubusercontent.com/61032020/74597082-0b4b0a00-5059-11ea-82ed-89a74d794405.JPG)
+
+- The build console output can be viewed in the build.md file.
+- Also jenkins file shows the pipeline for the code.
+
+
 ---
 <a name="intellij-and-key-shortcuts"></a>
 ## 7. IntelliJ AND KEY SHORTCUTS
