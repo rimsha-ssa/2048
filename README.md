@@ -48,10 +48,11 @@ use clojures / anonymous functions
 
 - **Source Code Conventions** - <a href="https://www.python.org/dev/peps/pep-0008">PEP8</a>
                
-               Docstrings were used with every function. (take any function in game/helper)
+               Docstrings were used with every function
                Constant indentation level was used throughout the code.
                Whitespaces were declared appropriately.
-               
+<a href="https://github.com/rimsha-ssa/2048/blob/c8fa959b7a3890d1eed039f7a4bdfb54adabbadf/src/helper.py#L31">function</a>
+
 - **Separation of Concerns**
                
                Each game operation is handled in a separate function and doesn't overlap i.e., 
@@ -63,7 +64,7 @@ use clojures / anonymous functions
               move or to create a grid more than 4x4 size can be made through the same game but they
               are closed to modification.
               
-- **Don't Repeat Yourself **
+- **Don't Repeat Yourself**
 
               (DRY principle) was used throughout the game
               link sonarcube results
