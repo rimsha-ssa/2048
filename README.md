@@ -98,6 +98,15 @@ use clojures / anonymous functions
 ---
 <a name="intellij-and-key-shortcuts"></a>
 ## 7. IntelliJ AND KEY SHORTCUTS
+> - Alt+Enter to Fix highlighted error or warning, improve or optimize a code construct.
+
+> - F2 to navigate between code issues and Shift+F2 to jump to the next or previous highlighted error.
+
+> - Double Shift to find anything related to IntelliJ IDEA or the project and open it, execute it, or jump to it.
+
+> - Ctrl+E	to select a recently opened file from the list.
+
+> - Ctrl+Shift+Enter to insert any necessary trailing symbols and put the caret where you can start typing the next statement.
 
 ---
 <a name="dsl"></a>
