@@ -90,8 +90,9 @@ use clojures / anonymous functions
 
 ![Capture 9](https://user-images.githubusercontent.com/61032020/74597082-0b4b0a00-5059-11ea-82ed-89a74d794405.JPG)
 
-- The build console output can be viewed in the build.md file.
-- Also jenkins file shows the pipeline for the code.
+- The build console output can be viewed in the <a href="https://github.com/rimsha-ssa/2048/blob/master/build.text">build.md</a> file.
+
+- Also <a href="https://github.com/rimsha-ssa/2048/blob/master/Jenkinsfile">jenkins</a> file shows the pipeline for the code.
 
 
 ---
