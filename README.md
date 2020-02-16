@@ -115,5 +115,10 @@ use clojures / anonymous functions
 ---
 <a name="functional-programming"></a>
 ## 9. FUNCTIONAL PROGRAMMING
+- only final data structures
+- (mostly) side effect free functions
+- the use of higher order functions
+- functions as parameters and return values
+- use clojures / anonymous functions
 
 ---
