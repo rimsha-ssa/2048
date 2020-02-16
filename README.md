@@ -45,14 +45,37 @@ use clojures / anonymous functions
 ---
 <a name="clean-code-development"></a>
 ## 3. CLEAN CODE DEVELOPMENT
-- Source Code Conventions - <a href="https://www.python.org/dev/peps/pep-0008">PEP8</a>
 
-               were refactored to comply with PEP8 recommendations.
+- **Source Code Conventions** - <a href="https://www.python.org/dev/peps/pep-0008">PEP8</a>
                
-- Separation of Concerns 
-- Open/Closed Principle (Open to extension but Closed to modification)
-- KISS Principle (keep it simple, stupid)
-- Single Responsibility
+               Docstrings were used with every function. (take any function in game/helper)
+               Constant indentation level was used throughout the code.
+               Whitespaces were declared appropriately.
+               
+- **Separation of Concerns**
+               
+               Each game operation is handled in a separate function and doesn't overlap i.e., 
+               they are not aware of each other. (link to helper.py up/down functions)
+               
+- **Open/Closed Principle (Open to extension but Closed to modification)**
+              
+              All game operations can be extended e.g., to add another function that reverses last 
+              move or to create a grid more than 4x4 size can be made through the same game but they
+              are closed to modification.
+              
+- **Don't Repeat Yourself **
+
+              (DRY principle) was used throughout the game
+              link sonarcube results
+              
+- **Single Responsibility**
+              
+              The code has 1 class that is solely responsible for creating/updating the grid and a 
+              separate file of helper functions that handles mathematical computations. Another class 
+              solely for testing the critical functions.
+              
+
+
 
 ***Link to <a href="https://github.com/rimsha-ssa/2048/blob/master/cheatsheet.md">cheat sheet</a>***
 
