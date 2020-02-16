@@ -116,9 +116,12 @@ use clojures / anonymous functions
 <a name="functional-programming"></a>
 ## 9. FUNCTIONAL PROGRAMMING
 - only final data structures
-- (mostly) side effect free functions
-- the use of higher order functions
-- functions as parameters and return values
-- use clojures / anonymous functions
+ > All the data structures used in the project are final fata structures. For example, all <a href="https://github.com/rimsha-ssa/2048/tree/master/src">files</a> in the system use only final properties.
+ 
+- <a href="https://github.com/rimsha-ssa/2048/blob/2a96bed64ed1e464bd23d935ce2bd3fa5c0ad3d5/src/helper.py#L16">(mostly)</a> side effect
+<a href="https://github.com/rimsha-ssa/2048/blob/2a96bed64ed1e464bd23d935ce2bd3fa5c0ad3d5/src/helper.py#L60">free</a> functions
 
+- the use of <a href="https://github.com/rimsha-ssa/2048/blob/2a96bed64ed1e464bd23d935ce2bd3fa5c0ad3d5/src/helper.py#L31">higher</a> order functions
+
+- functions as parameters and return values
 ---
