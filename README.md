@@ -18,7 +18,7 @@ The executable was made using PyInstaller(Compatible with Windows OS)\
 4. [Build Management](#build-management) with any Build System as Ant, Maven, Gradle, etc. (only travis is not enough) Do e.g. generate Docs, call tests, etc.
 5. [Unit Test](#unit-test) Integrate some nice Unit-Tests in your Code to be integrated in the Build
 6. [Continous Delivery Pipeline](#continous-delivery-pipeline)  (show me your pipeline in e.g. Jenkins, Travis-CI, Circle-CI, etc.)
-7. [IntelliJ and key shortcuts](#intellij-and-key-shortcuts) Use a good IDE and get fluent with it as e.g. IntelliJ. What are your favourite Key-Shortcuts?!
+7. [Pycharm and key shortcuts](#pycharm-and-key-shortcuts) Use a good IDE and get fluent with it as e.g. IntelliJ. What are your favourite Key-Shortcuts?!
 9. [Functional Programming](#functional-programming) (prove that you have covered all functional definitions in your code as
 only final data structures
 (mostly) side effect free functions
@@ -127,16 +127,19 @@ To view the SR in the code click on <a href="https://github.com/rimsha-ssa/2048/
 
 ---
 <a name="intellij-and-key-shortcuts"></a>
-## 7. IntelliJ AND KEY SHORTCUTS
-> - Alt+Enter to Fix highlighted error or warning, improve or optimize a code construct.
+## 7. PyCharm AND KEY SHORTCUTS
 
-> - F2 to navigate between code issues and Shift+F2 to jump to the next or previous highlighted error.
+> - Ctrl+K Compare the changes and to commit changes to local repository.
 
-> - Double Shift to find anything related to IntelliJ IDEA or the project and open it, execute it, or jump to it.
+> - Ctrl+ Shift+K push local commits to remote repository.
+
+> - Double Shift to find anything related to PyCharm or the project and open it, execute it, or jump to it.
 
 > - Ctrl+E	to select a recently opened file from the list.
 
-> - Ctrl+Shift+Enter to insert any necessary trailing symbols and put the caret where you can start typing the next statement.
+> - F2 to navigate between code issues and Shift+F2 to jump to the next or previous highlighted error.
+
+PyCharm is the default IDE to use for Python development. Among other IntelliJ products, this turns out to be one of the most comfortable IDEs, with excellent plugin support, tooling, and look and feel. It serves as an excellent support tool to develop any kind of Python application, from backend applications through data science scripts to Python web apps.
 
 ---
 <a name="dsl"></a>
