@@ -6,7 +6,8 @@
 
 ---
 ## Play the Game
-- To play the game click on the link to download. (Compatible with Windows OS)\
+- To play the game click on the link to download.
+The executable was made using PyInstaller(Compatible with Windows OS)\
 <a href="https://github.com/rimsha-ssa/2048/blob/master/dist/game.exe">play game</a>
 
 ---
