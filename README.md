@@ -18,7 +18,6 @@
 5. [Unit Test](#unit-test) Integrate some nice Unit-Tests in your Code to be integrated in the Build
 6. [Continous Delivery Pipeline](#continous-delivery-pipeline)  (show me your pipeline in e.g. Jenkins, Travis-CI, Circle-CI, etc.)
 7. [IntelliJ and key shortcuts](#intellij-and-key-shortcuts) Use a good IDE and get fluent with it as e.g. IntelliJ. What are your favourite Key-Shortcuts?!
-8. [DSL](#dsl) (Create a small DSL Demo example snippet in your code even if it does not contribute to your project)
 9. [Functional Programming](#functional-programming) (prove that you have covered all functional definitions in your code as
 only final data structures
 (mostly) side effect free functions
@@ -110,7 +109,6 @@ use clojures / anonymous functions
 
 ---
 <a name="dsl"></a>
-## 8. DSL
 
 ---
 <a name="functional-programming"></a>
@@ -123,5 +121,6 @@ use clojures / anonymous functions
 
 - the use of <a href="https://github.com/rimsha-ssa/2048/blob/2a96bed64ed1e464bd23d935ce2bd3fa5c0ad3d5/src/helper.py#L31">higher</a> order functions
 
-- functions as parameters and return values
+- <a href="https://github.com/rimsha-ssa/2048/blob/4896d406b9856979ee2da105837329b4be909a50/src/helper.py#L131">functions</a> as parameters and return values
+
 ---
