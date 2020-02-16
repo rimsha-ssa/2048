@@ -29,7 +29,7 @@ use clojures / anonymous functions
 <a name="uml"></a>
 ## 1. UML
 
-![Class Diagram)](https://github.com/rimsha-ssa/2048/blob/master/UML.jpg)]
+![class diagram](https://user-images.githubusercontent.com/61032020/74607369-c9fa3f00-50d8-11ea-9d0d-5a683881a6d0.png)
 ![Activity Diagram ](https://user-images.githubusercontent.com/61032020/74606708-062aa100-50d3-11ea-9911-0629e95898b4.png)
 
 
