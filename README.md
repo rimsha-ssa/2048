@@ -51,13 +51,14 @@ use clojures / anonymous functions
                Docstrings were used with every function
                Constant indentation level was used throughout the code.
                Whitespaces were declared appropriately.
-<a href="https://github.com/rimsha-ssa/2048/blob/c8fa959b7a3890d1eed039f7a4bdfb54adabbadf/src/helper.py#L31">function</a>
+To view the PEP8 convention in the code click on <a href="https://github.com/rimsha-ssa/2048/blob/c8fa959b7a3890d1eed039f7a4bdfb54adabbadf/src/helper.py#L31">function</a>
 
 - **Separation of Concerns**
                
                Each game operation is handled in a separate function and doesn't overlap i.e., 
-               they are not aware of each other. (link to helper.py up/down functions)
-               
+               they are not aware of each other.
+To view the SoC in the code click on <a href="https://github.com/rimsha-ssa/2048/blob/c8fa959b7a3890d1eed039f7a4bdfb54adabbadf/src/helper.py#L145">reference</a>
+             
 - **Open/Closed Principle (Open to extension but Closed to modification)**
               
               All game operations can be extended e.g., to add another function that reverses last 
@@ -65,15 +66,17 @@ use clojures / anonymous functions
               are closed to modification.
               
 - **Don't Repeat Yourself**
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=rimsha-ssa_2048&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=rimsha-ssa_2048)
 
               (DRY principle) was used throughout the game
-              link sonarcube results
+
               
 - **Single Responsibility**
               
               The code has 1 class that is solely responsible for creating/updating the grid and a 
               separate file of helper functions that handles mathematical computations. Another class 
               solely for testing the critical functions.
+To view the SR in the code click on <a href="https://github.com/rimsha-ssa/2048/blob/c8fa959b7a3890d1eed039f7a4bdfb54adabbadf/src/game.py#L32">reference</a>
               
 
 
